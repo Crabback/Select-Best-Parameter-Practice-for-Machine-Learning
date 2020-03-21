@@ -1,2 +1,2 @@
 # Select-Best-Parameter-Practice-for-Machine-Learning
-Practice to use cross-validation to select the best low-rank approximation/ridge-regression parameter and use the best choice to predict on new samples
+Practice of using cross-validation method to select the best low-rank approximation/ridge-regression parameter and predicting on new samples using the best parameter
